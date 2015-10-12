@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="open_image">Выбрать изображение</string>
+    <string name="select_pic">Выберите изображени</string>
+    <string name="before">До</string>
+    <string name="before_after">До-После</string>
+    <string name="after">После</string>
+</resources>
